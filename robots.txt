@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /myblog/plugins
+Disallow: /myblog/entries/static/wedding
+Allow: /
+
